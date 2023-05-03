@@ -1,0 +1,7 @@
+{
+  "name": "App_UPC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
